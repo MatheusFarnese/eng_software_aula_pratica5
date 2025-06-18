@@ -1,2 +1,2 @@
-# eng_software_aula_pratica5
-Aula pratica 5 da disciplina engenharia de software
+# Game inventory
+Aula prática 5 da disciplina engenharia de software 2
